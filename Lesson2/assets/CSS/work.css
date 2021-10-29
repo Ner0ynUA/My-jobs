@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');
+body{
+    background-color: rgb(106, 159, 175);
+    font-family: 'Quicksand', sans-serif;
+    
+}
+ol li a{
+    color: rgb(10, 9, 78);
+    text-decoration: none;
+    font-size: 16px;
+}
+h1,p {
+    text-align: center;
+} 

@@ -1,0 +1,27 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');body{
+    background-color: rgb(232, 241, 248);
+    font-family: 'Rubik', sans-serif;
+    font-size:16px;
+    color: rgb(91, 102, 112);
+} 
+
+img{
+    border-radius: 50%; 
+    background-color: rgb(73, 117, 153);
+    width: 300px;
+}
+a{
+    text-decoration: none;
+    color: rgb(28, 166, 184);
+}
+ul{
+    list-style-type:square ;
+}
+ul li{
+    color: rgb(49, 49, 133);
+    
+}
+ul li a{
+    color: rgb(49, 49, 133);
+}

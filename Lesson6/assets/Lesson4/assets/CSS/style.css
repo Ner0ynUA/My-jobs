@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300&display=swap');
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+    color: rgb(19, 17, 17);
+    background: rgb(255,255,255);
+    background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(222,226,196,1) 47%, rgba(231,236,204,1) 100%);
+    font-size: 18px;
+}
+.images{
+    width: 200px;
+    text-align: center;
+}
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+ul{
+    list-style-type: none;
+}
+h1{
+    padding: 15px;
+    text-align: center;
+}
+span{
+    color: rgb(5, 158, 5);
+}
+h2{
+    font-size: 32px;
+    margin-bottom: 5px;
+}
+h3{
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+.main{
+    width: 1800px;
+    height: 800px;
+    margin: 15px auto;
+    border-spacing: 25px;
+}
+.main-left, .main-right{
+    border-radius: 5px;
+    margin: 0 15px;
+    padding: 0 25px;
+    -webkit-box-shadow: 0px 10px 13px -7px #000000, 28px 30px 44px 2px rgba(0,0,0,0.3); 
+box-shadow: 0px 10px 13px -7px #000000, 28px 30px 44px 2px rgba(0,0,0,0.3);
+}
+.main-left{
+    width: 450px;
+}
+.main-left td{
+    width: 450px;
+    padding: 10px 30px;
+    border-bottom: 1px solid black;
+    text-align: center;
+}
+.main-right{
+    width: 1250px;
+}
+.main-right td{
+    width: 1250px;
+    height: 150px;
+    text-align: center;
+    padding: 10px 30px;
+    border-bottom: 1px solid black;
+}
+a{
+    text-decoration: none;
+    color: rgb(19, 17, 17);
+    font-weight: bold;
+}
+.btn{
+    padding: 10px 30px;
+    background: rgb(5, 158, 5);
+}

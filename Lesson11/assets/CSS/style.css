@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.logo{
+    width: 300px;
+    height: 300px;
+    border-radius: 30%;
+    margin: 20px 30px;
+    background: #f09433; 
+    background: -moz-linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%); 
+    background: -webkit-linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
+    background: linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
+ }
+ .white-line{
+    background-color: none;
+    border: 30px solid white;
+    width: 250px;
+    height: 250px;
+    border-radius: 30%;
+    margin: 20px 25px;
+    position: fixed;
+    top: -20px;
+    
+}
